@@ -7,10 +7,7 @@ _enter the following commands_
 <br>
 ```
 pip install glfw
-```
-```
 pip install PyOpenGL PyOpenGL_accelerate
 ```
-<br>
 this will install the required packages
 <br>
