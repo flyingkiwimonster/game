@@ -1,5 +1,7 @@
 # stuff about the game
 
+## IGNORE FOR NOW
+
 <u>__setup:__</u>
 <br>
 _enter the following commands_
@@ -11,3 +13,4 @@ pip install PyOpenGL PyOpenGL_accelerate
 ```
 this will install the required packages
 <br>
+---
