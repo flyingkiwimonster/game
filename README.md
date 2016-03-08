@@ -12,6 +12,7 @@ pip install PyOpenGL PyOpenGL_accelerate
 pip install pygame
 pip install scipy
 pip install numpy
+pip install Pillow
 ```
 this will install the required packages
 <br>
